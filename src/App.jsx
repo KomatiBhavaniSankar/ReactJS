@@ -57,6 +57,7 @@ function calculateWinner(cells) {
     }
   }
   return null;
+  
 }
 
 export default App;
