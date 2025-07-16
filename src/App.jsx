@@ -1,6 +1,7 @@
 import React from "react";
 // import MouseOutEvent from "./event";
-import Mycomponent from "./hooks";
+
+import Mycomponent1 from "./useeffect-hook";
 function App() {
 
 
@@ -11,7 +12,7 @@ return(
 <div>
   {/* <MouseOutEvent /> */}
 
-<Mycomponent />
+<Mycomponent1 />
 </div>
 
 );
