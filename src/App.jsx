@@ -1,5 +1,6 @@
 import React from "react";
-import MouseOutEvent from "./event";
+// import MouseOutEvent from "./event";
+import Mycomponent from "./hooks";
 function App() {
 
 
@@ -8,9 +9,9 @@ return(
 
 
 <div>
-  <MouseOutEvent />
+  {/* <MouseOutEvent /> */}
 
-
+<Mycomponent />
 </div>
 
 );
